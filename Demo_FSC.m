@@ -9,6 +9,7 @@
 %=========================================================================
 
 addpath('\Function')
+addpath('\Function\FIREfunctions')
 
 [file, path] = uigetfile('C:\*.csv','Select localization csv file:','MultiSelect','off');
 

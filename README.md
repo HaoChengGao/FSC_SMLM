@@ -4,7 +4,7 @@ Fourier shell correlation from XYZ coordinates
 # Requirement
 Matlab 2019 or later
 
-Dipimage toolbox (https://diplib.org/)
+Dipimage toolbox 2.9.0 (https://diplib.org/)
 
 
 # Demo_FSC.m

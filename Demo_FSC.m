@@ -8,7 +8,7 @@
 % Last modified on June 2, 2023 by HAO-CHENG GAO
 %=========================================================================
 
-addpath('\Function\FSC_SMLM')
+addpath('\Function')
 
 [file, path] = uigetfile('C:\*.csv','Select localization csv file:','MultiSelect','off');
 

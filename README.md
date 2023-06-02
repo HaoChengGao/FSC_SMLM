@@ -1,6 +1,11 @@
 # FSC_SMLM package
 Fourier shell correlation from XYZ coordinates
 
+# Requirement
+Matlab 2019 or later
+
+Dipimage toolbox (https://diplib.org/)
+
 
 # Demo_FSC.m
 Demo code for Fourier sell correlation (FSC) analysis

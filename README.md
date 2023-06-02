@@ -6,6 +6,8 @@ Matlab 2019 or later
 
 Dipimage toolbox 2.9 ([https://diplib.org/](https://diplib.org/download_2.9.html))
 
+FIREfunctions (https://www.nature.com/articles/nmeth.2448)
+
 
 # Demo_FSC.m
 Demo code for Fourier sell correlation (FSC) analysis
